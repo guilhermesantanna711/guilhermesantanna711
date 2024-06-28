@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Guilherme+Monteiro+Sant'anna;I'm+19+years+old;I+´m+from+Brazil,+SP;I'm+studying+Cybersecurity+in+University+São+Judas;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Guilherme+Monteiro+Sant'anna;I'm+19+years+old;I+´m+from+Brazil,+SP;I'm+studying+Cybersecurity+in+University+São+Judas;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 <h2 align="left">Stats</h2>
