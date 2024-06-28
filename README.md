@@ -1,5 +1,4 @@
-## Hi there 👋
-## I'm a younger man who is starting in this wide world of programming
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Guilherme+Monteiro+Sant'anna;I'm+19+years+old;I+´m+from+Brazil,+SP;I+study+Cibersecurity+in+University+São+Judas;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 <h2 align="left">Stats</h2>
